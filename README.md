@@ -21,7 +21,7 @@ If you have any questions, shoot me an email, linked above :)
 # Languages and Tools
 <a href="https://www.java.com/en/" target="_blank">[Java]</a>
 <a href="https://www.python.org" target="_blank">[Python]</a>
-<a href="https://www.cplusplus.org/" target="_blank">[C++]</a>
+<a href="https://isocpp.org/">[C++]</a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">[Bash]</a>
 <a href="https://git-scm.com/" target="_blank">[Git]</a>
 <a href="https://www.docker.com/" target="_blank">[Docker]</a>
