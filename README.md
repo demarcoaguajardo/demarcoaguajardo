@@ -14,7 +14,7 @@ If you have any questions, shoot me an email, linked above :)
 - I’m currently working on a project for the Auburn University Baseball Team ⠀     ⠀⠀           
 - Majority of my projects are available on <a href="https://github.com/demarcoaguajardo?tab=repositories" target="_blank">GitHub</a>       
 - Feel free to ping me on <a href="https://www.linkedin.com/in/demarcoaguajardo/" target="_blank">LinkedIn</a>       ⠀⠀                      ⠀                                                      
-- Reach out to me at my <a href="demarcoabel0818@gmail.com">Email</a>
+- Reach out to me at my <a href="mailto:demarcoabel0818@gmail.com">Email</a>
 - Take a look at my coursework below👇  ⠀     ⠀⠀⠀                         ⠀
 ⠀⠀⠀⠀⠀                                                               
 
