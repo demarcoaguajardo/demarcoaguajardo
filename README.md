@@ -6,8 +6,6 @@
 
 I am currently a senior at Auburn University pursuing a bachelor's degree in Software Engineering.  
 If you have any questions, shoot me an email, linked above :)
-
-
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                               ⠀⠀
 # More About Me: 
 - I’m currently studying in my last semester at <a href="https://www.auburn.edu/" target="_blank">Auburn University</a>
