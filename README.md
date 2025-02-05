@@ -2,24 +2,29 @@
 ## My name is Demarco Guajardo
 
 <a href="mailto:demarcoaguajardo@gmail.com">[Email]</a>
-<a href="https://www.linkedin.com/in/demarcoaguajardo/">[LinkedIn]</a>
+<a href="https://www.linkedin.com/in/demarcoaguajardo/" target="_blank">[LinkedIn]</a>
 
 I am currently a senior at Auburn University pursuing a bachelor's degree in Software Engineering.  
 If you have any questions, shoot me an email, linked above :)
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                               ⠀⠀
-# More About Me:                                         
-- I’m currently studying in my last semester at <a href="https://www.auburn.edu/">[Auburn University]</a>
+# More About Me: 
+- I’m currently studying in my last semester at <a href="https://www.auburn.edu/" target="_blank">Auburn University</a>
 - I’m currently working on a project for the Auburn University Baseball Team ⠀     ⠀⠀           
-- Majority of my projects are available on <a href="https://github.com/demarcoaguajardo?tab=repositories">[GitHub]</a>  ⠀     ⠀⠀       ⠀⠀⠀
-- Feel free to ping me on <a href="https://www.linkedin.com/in/demarcoaguajardo/">[LinkedIn]</a>       ⠀⠀                      ⠀                                                      
-- Reach out to me at my <a href="demarcoabel0818@gmail.com">[Email]</a>
+- Majority of my projects are available on <a href="https://github.com/demarcoaguajardo?tab=repositories" target="_blank">GitHub</a>       
+- Feel free to ping me on <a href="https://www.linkedin.com/in/demarcoaguajardo/" target="_blank">LinkedIn</a>       ⠀⠀                      ⠀                                                      
+- Reach out to me at my <a href="demarcoabel0818@gmail.com">Email</a>
 - Take a look at my coursework below👇  ⠀     ⠀⠀⠀                         ⠀
 ⠀⠀⠀⠀⠀                                                               
 
 # Languages and Tools
-<a href="https://www.java.com/en/" target="_blank">[Java]</a> <a href="https://www.python.org" target="_blank">[Python]</a> <a href="https://www.cplusplus.org/" target="_blank">[C++]</a> <a href="https://www.gnu.org/software/bash/" target="_blank">[Bash]</a> <a href="https://git-scm.com/" target="_blank">[Git]</a> <a href="https://www.docker.com/" target="_blank">[Docker]</a>
+<a href="https://www.java.com/en/" target="_blank">[Java]</a>
+<a href="https://www.python.org" target="_blank">[Python]</a>
+<a href="https://www.cplusplus.org/" target="_blank">[C++]</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank">[Bash]</a>
+<a href="https://git-scm.com/" target="_blank">[Git]</a>
+<a href="https://www.docker.com/" target="_blank">[Docker]</a>
 
 # Coursework
 <a href="https://github.com/demarcoaguajardo/COMP-1210" target="_blank">[COMP-1210]</a> - Fundamentals of Computing I  
