@@ -1,8 +1,9 @@
 # Hey! 👋
 ## My name is Demarco Guajardo
 
-# <a href="mailto:demarcoaguajardo@gmail.com">[Email]</a>
-# <a href="https://www.linkedin.com/in/demarcoaguajardo/" target="_blank">[LinkedIn]</a>
+<!-- <a href="mailto:demarcoaguajardo@gmail.com">[Email]</a>
+<a href="https://www.linkedin.com/in/demarcoaguajardo/" target="_blank">[LinkedIn]</a>
+-->
 
 I am currently a senior at Auburn University pursuing a bachelor's degree in Software Engineering.  
 If you have any questions, shoot me an email, linked above :)
