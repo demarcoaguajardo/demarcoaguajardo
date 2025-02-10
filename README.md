@@ -37,13 +37,13 @@ If you have any questions, shoot me an email, linked above :)
 <a href="https://github.com/demarcoaguajardo/COMP-5120" target="_blank">[COMP-5120]</a> - Database Systems  
 <a href="https://github.com/demarcoaguajardo/COMP-5600" target="_blank">[COMP-5600]</a> - Artificial Intelligence  
 <a href="https://github.com/demarcoaguajardo/COMP-5700" target="_blank">[COMP-5700]</a> - Secure Software Processes  
-<a href="https://github.com/demarcoaguajardo/COMP-5710" target="_blank">[COMP-5710]</a> - Software Quality Assurance  
-<a href="https://github.com/demarcoaguajardo/COMP-4730" target="_blank">[COMP-4730]</a> - Computer Ethics  
-<a href="https://github.com/demarcoaguajardo/COMP-4710" target="_blank">[COMP-4710]</a> - Senior Design  
+<a href="https://github.com/demarcoaguajardo/COMP-5710" target="_blank">[COMP-5710]</a> - Software Quality Assurance (In-Progress)
+<a href="https://github.com/demarcoaguajardo/COMP-4730" target="_blank">[COMP-4730]</a> - Computer Ethics (In-Progress)  
+<a href="https://github.com/demarcoaguajardo/COMP-4710" target="_blank">[COMP-4710]</a> - Senior Design (In-Progress)  
 </pre>
 
-## Notes on coursework
-I am in my last semester as a student, so this will be the final list for my coursework. The last three courses are currently in progress.  
+## Notes  
+I am in my last semester as a student, so this will be the final list for my coursework.  
 If you have any questions, please don't hesitate to reach out to me by email linked above!
 
 <!--
