@@ -39,6 +39,7 @@ If you have any questions, shoot me an email, linked above :)
 <a href="https://github.com/demarcoaguajardo/COMP-5700" target="_blank">[COMP-5700]</a> - Secure Software Processes  
 <a href="https://github.com/demarcoaguajardo/COMP-5710" target="_blank">[COMP-5710]</a> - Software Quality Assurance (In-Progress)  
 <a href="https://github.com/demarcoaguajardo/COMP-4730" target="_blank">[COMP-4730]</a> - Computer Ethics (In-Progress)  
+<a href="https://github.com/demarcoaguajardo/COMP-5130" target="_blank">[COMP-5130]</a> - Data Mining (In-Progress)  
 <a href="https://github.com/demarcoaguajardo/COMP-4710" target="_blank">[COMP-4710]</a> - Senior Design Project (In-Progress)  
 </pre>
 
