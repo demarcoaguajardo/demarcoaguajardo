@@ -43,7 +43,7 @@ If you have any questions, shoot me an email, linked above :)
 </pre>
 
 ## Notes  
-I am in my last semester as a student, so this will be the final list for my coursework.  
+I have since graduated from university, so this will be the final list for my coursework.  
 If you have any questions, please don't hesitate to reach out to me by email linked above!
 
 <!--
