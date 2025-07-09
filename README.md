@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/demarcoaguajardo/" target="_blank">[LinkedIn]</a>
 -->
 
-I am currently a senior at Auburn University pursuing a bachelor's degree in Software Engineering.  
+I recently graduated from Auburn University with a bachelor's degree in Software Engineering.  
 If you have any questions, shoot me an email, linked above :)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                               ⠀⠀
 ## About Me: 
