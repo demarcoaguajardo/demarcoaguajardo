@@ -9,7 +9,7 @@ I recently graduated from Auburn University with a bachelor's degree in Software
 If you have any questions, shoot me an email, linked above :)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                               ⠀⠀
 ## About Me: 
-- I’m currently working as a Software Engineering Intern at <a href="https://www.milliken.com/en-us" target="_blank">Milliken & Co.</a>⠀     ⠀⠀                 
+- I’m currently working as a Systems and Technology Supervisor at <a href="https://www.milliken.com/en-us" target="_blank">Milliken & Co.</a>⠀     ⠀⠀                 
 - Feel free to ping me on <a href="https://www.linkedin.com/in/demarcoaguajardo/" target="_blank">LinkedIn</a>       ⠀⠀                      ⠀                                                      
 - Reach out to me at my <a href="mailto:demarcoabel0818@gmail.com">Email</a>
 - Take a look at my coursework below👇  ⠀     ⠀⠀⠀                         ⠀
